@@ -58,6 +58,10 @@ As part of a broader initiative to evaluate system resilience, this analysis foc
 - What was the average duration of a forced outage in each of those years, and has the duration increased over time?
 - What are the primary causes behind the highest energy losses for the top three participants (GW, MELK, AURICON), and how much do these outage reasons contribute to their overall energy loss?
 
+## 📊 Tableau Dashboard
 
+Explore the interactive Tableau dashboard for detailed visual insights:
+
+🔗 [View the Tableau Dashboard](https://public.tableau.com/views/AEMR_17440574020340/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
 <img src = "https://media.istockphoto.com/id/1281821795/photo/market-stock-graph-and-information-with-city-light-and-electricity-and-energy-facility-banner.jpg?s=612x612&w=0&k=20&c=RSN5LqeMW28HW10aA190_DWR5YJ5tG2wixHFPBV3uZE=">
