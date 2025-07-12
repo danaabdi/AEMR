@@ -58,6 +58,11 @@ As part of a broader initiative to evaluate system resilience, this analysis foc
 - What was the average duration of a forced outage in each of those years, and has the duration increased over time?
 - What are the primary causes behind the highest energy losses for the top three participants (GW, MELK, AURICON), and how much do these outage reasons contribute to their overall energy loss?
 
+## 🔍 SQL Analysis (Google Colab)
+
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1tdG-dJoX_V-dJneJt0p9eTee6bTAGAHt?usp=sharing)
+
+
 ## 📊 Tableau Dashboard
 
 Explore the interactive Tableau dashboard for detailed visual insights:
