@@ -26,3 +26,33 @@ addressed:
 <b> A) Energy Stability and Market Outages
     <p>
 B) Energy Losses and Market Reliability </b>`
+
+<h1 style="color:#D4AF37"> Part I. Energy Stability & Market Outages </h1>
+
+<p>
+Energy stability is a top priority for the AEMR. To maintain energy security and market reliability, it is critical to understand the patterns and severity of outage events.
+Key questions driving this analysis include:
+
+<p>
+<b>
+<li>  What are the most common types of outages, and how long do they typically last?
+<li>  How frequently do these outages occur?
+<li>  Are certain energy providers consistently more prone to outages, signaling potential systemic reliability risks?
+    
+<p>
+
+<h1 style="color:#D4AF37"> Part II. Energy Losses & Market Reliability </h1>
+
+### Objective
+
+As part of a broader initiative to evaluate system resilience, this analysis focuses on **forced outages** to understand their frequency, duration, and overall impact on energy reliability. Given that forced outages are **unplanned supply disruptions**, they present a significant risk to energy security—particularly if multiple providers are affected concurrently.
+
+To support AEMR’s efforts in mitigating these risks, the analysis addresses the following key business questions:
+
+- **What proportion of all outages in 2016 and 2017 were classified as Forced Outages?**
+- **What was the average duration of a forced outage in each of those years, and has the duration increased over time?**
+- **Which energy providers recorded the highest number of forced outages, and do any patterns indicate systemic reliability issues?**
+
+
+    
+<img src = "https://media.istockphoto.com/id/1281821795/photo/market-stock-graph-and-information-with-city-light-and-electricity-and-energy-facility-banner.jpg?s=612x612&w=0&k=20&c=RSN5LqeMW28HW10aA190_DWR5YJ5tG2wixHFPBV3uZE=">
