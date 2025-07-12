@@ -60,12 +60,10 @@ As part of a broader initiative to evaluate system resilience, this analysis foc
 
 ## 🔍 SQL Analysis (Google Colab)
 
-👉 [Open in Google Colab](https://colab.research.google.com/drive/1tdG-dJoX_V-dJneJt0p9eTee6bTAGAHt?usp=sharing)
+🔗 [Open in Google Colab](https://colab.research.google.com/drive/1tdG-dJoX_V-dJneJt0p9eTee6bTAGAHt?usp=sharing)
 
 
 ## 📊 Tableau Dashboard
-
-Explore the interactive Tableau dashboard for detailed visual insights:
 
 🔗 [View the Tableau Dashboard](https://public.tableau.com/views/AEMR_17440574020340/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
