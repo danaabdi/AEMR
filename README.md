@@ -41,12 +41,10 @@ Energy stability is a top priority for the AEMR. To maintain energy security and
 - What are the monthly trends in approved outage events across 2016 and 2017, and which outage types are increasing over time?
 - Which participants are responsible for the most frequent and prolonged approved outages by type, and what operational risks do they pose?
 - Which participants can be classified as High, Medium, or Low Risk based on their average outage duration, and how can this segmentation inform operational decision-making?
-- Which participants pose the greatest operational risk based on the frequency and average duration (in days) of their forced outages?
 
 
 <h1 style="color:#D4AF37"> Part II. Energy Losses & Market Reliability </h1>
 
-### Objective
 
 As part of a broader initiative to evaluate system resilience, this analysis focuses on **forced outages** to understand their frequency, duration, and overall impact on energy reliability. Given that forced outages are **unplanned supply disruptions**, they present a significant risk to energy security—particularly if multiple providers are affected concurrently.
 
@@ -55,6 +53,7 @@ As part of a broader initiative to evaluate system resilience, this analysis foc
 
 ## 🔍 Key Business Questions Answered
 
+- Which participants pose the greatest operational risk based on the frequency and average duration (in days) of their forced outages?
 - What proportion of all outages in 2016 and 2017 were classified as Forced Outages?
 - What was the average duration of a forced outage in each of those years, and has the duration increased over time?
 - What are the primary causes behind the highest energy losses for the top three participants (GW, MELK, AURICON), and how much do these outage reasons contribute to their overall energy loss?
