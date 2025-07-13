@@ -1,6 +1,16 @@
 
 <center><h1 style="color:#D4AF37"> AEMR Business Analysis </h1>
 <img src = "https://images.squarespace-cdn.com/content/v1/551972d8e4b0d571edc2e2c8/8f3abd33-0916-4415-9b24-593eea1d1e3c/Screen+Shot+2022-04-20+at+12.41.24+PM.png">
+
+## 🔍 SQL Analysis (Google Colab)
+
+🔗 [Open in Google Colab](https://colab.research.google.com/drive/1tdG-dJoX_V-dJneJt0p9eTee6bTAGAHt?usp=sharing)
+
+
+## 📊 Tableau Dashboard
+
+🔗 [View the Tableau Dashboard](https://public.tableau.com/views/AEMR_17440574020340/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+    
 <h1 style="color:#D4AF37"> What's the Business Problem? </h1>
 
 The American Energy Market Regulator (AEMR) is responsible for looking after the
@@ -57,14 +67,5 @@ As part of a broader initiative to evaluate system resilience, this analysis foc
 - What proportion of all outages in 2016 and 2017 were classified as Forced Outages?
 - What was the average duration of a forced outage in each of those years, and has the duration increased over time?
 - What are the primary causes behind the highest energy losses for the top three participants (GW, MELK, AURICON), and how much do these outage reasons contribute to their overall energy loss?
-
-## 🔍 SQL Analysis (Google Colab)
-
-🔗 [Open in Google Colab](https://colab.research.google.com/drive/1tdG-dJoX_V-dJneJt0p9eTee6bTAGAHt?usp=sharing)
-
-
-## 📊 Tableau Dashboard
-
-🔗 [View the Tableau Dashboard](https://public.tableau.com/views/AEMR_17440574020340/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
 <img src = "https://media.istockphoto.com/id/1281821795/photo/market-stock-graph-and-information-with-city-light-and-electricity-and-energy-facility-banner.jpg?s=612x612&w=0&k=20&c=RSN5LqeMW28HW10aA190_DWR5YJ5tG2wixHFPBV3uZE=">
