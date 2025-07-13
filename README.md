@@ -2,6 +2,10 @@
 <center><h1 style="color:#D4AF37"> AEMR Business Analysis </h1>
 <img src = "https://images.squarespace-cdn.com/content/v1/551972d8e4b0d571edc2e2c8/8f3abd33-0916-4415-9b24-593eea1d1e3c/Screen+Shot+2022-04-20+at+12.41.24+PM.png">
 
+# TL;DR
+
+This project investigates energy outage data from the American Energy Market Regulator (AEMR) using SQL and Tableau. It focuses on analyzing forced outages from 2016–2017, identifying high-risk participants, primary causes of outage trends and energy loss contributors.
+
 ## 🔍 SQL Analysis 
 
 🔗 [Open](AEMR_SQL_Case_Study_Dana_Abdirakhym_final.ipynb)
