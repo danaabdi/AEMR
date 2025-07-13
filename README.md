@@ -8,7 +8,7 @@ This project investigates energy outage data from the American Energy Market Reg
 
 ## 🔍 SQL Analysis 
 
-🔗 [Open](AEMR_SQL_Case_Study_Dana_Abdirakhym_final.ipynb)
+🔗 [Open]((https://github.com/danaabdi/AEMR/blob/main/Final__AEMR_SQL_Case_Study_Dana_Abdirakhym.ipynb))
 
 
 ## 📊 Tableau Dashboard
